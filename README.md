@@ -4,6 +4,16 @@
 
 
 # References
+@article{gastaldo2014computational,  
+  title={Computational intelligence techniques for tactile sensing systems},  
+  author={Gastaldo, Paolo and Pinna, Luigi and Seminara, Lucia and Valle, Maurizio and Zunino, Rodolfo},  
+  journal={Sensors},  
+  volume={14},  
+  number={6},  
+  pages={10952--10976},  
+  year={2014},  
+  publisher={MDPI}}
+
 @article{gianoglio2021novel,  
   title={A Novel Learning Strategy for the Trade-Off Between Accuracy and Computational Cost: A Touch Modalities Classification Case Study},  
   author={Gianoglio, Christian and Ragusa, Edoardo and Gastaldo, Paolo and Valle, Maurizio},  
