@@ -4,6 +4,8 @@
 
 
 # References
+Here some papers that applied some machine learning techniques on the dataset.
+
 @article{gastaldo2014computational,  
   title={Computational intelligence techniques for tactile sensing systems},  
   author={Gastaldo, Paolo and Pinna, Luigi and Seminara, Lucia and Valle, Maurizio and Zunino, Rodolfo},  
