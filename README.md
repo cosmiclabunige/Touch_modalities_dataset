@@ -4,7 +4,7 @@
 
 
 # References
-Here some papers that applied some machine learning techniques on the dataset.
+Here some papers where  machine learning techniques have been applied to the data.
 
 @article{gastaldo2014computational,  
   title={Computational intelligence techniques for tactile sensing systems},  
