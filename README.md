@@ -44,3 +44,12 @@ Here some papers where  machine learning techniques have been applied to the dat
   year={2021},  
   organization={IEEE}}
 
+@ARTICLE{gianoglio2023,
+  author={Gianoglio, Christian and Ragusa, Edoardo and Gastaldo, Paolo and Valle, Maurizio},
+  journal={IEEE Sensors Letters}, 
+  title={Trade-off Between Accuracy and Computational Cost With Neural Architecture Search: A Novel Strategy for Tactile Sensing Design}, 
+  year={2023},
+  volume={7},
+  number={5},
+  pages={1--4},
+  publisher={IEEE}}
